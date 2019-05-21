@@ -1,0 +1,8 @@
+<application>
+  <component name="beanProperty.Settings">
+    <option name="getterPattern" value="Gets %FIELD_JAVADOC%.&#10;@return Value of %FIELD_JAVADOC%." />
+    <option name="initialized" value="true" />
+    <option name="setterPattern" value="Sets new %FIELD_JAVADOC%.&#10;@param %FIELD_NAME% New value of %FIELD_JAVADOC%." />
+    <option name="useFieldNameInsteadEmptyDoc" value="true" />
+  </component>
+</application>

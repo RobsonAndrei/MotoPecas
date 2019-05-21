@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="MotoPecas">
+      <CLASSES />
+      <JAVADOC />
+      <NATIVE>
+        <root url="file://$USER_HOME$/git/MotoPecas" />
+      </NATIVE>
+      <SOURCES />
+    </library>
+  </component>
+</application>

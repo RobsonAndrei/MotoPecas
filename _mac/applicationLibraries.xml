@@ -1,5 +1,33 @@
 <application>
   <component name="libraryTable">
+    <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+      <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/javax.annotation.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/gmbal-api-only.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/FastInoset.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/ha-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jaxb-impl.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jaxws-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jaxb-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jaxb-xjc.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jaxws-tools.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jaxws-rt.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/mail.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/jsr181-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/saaj-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/management-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/policy.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/mimepull.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/streambuffer.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/saaj-impl.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/stax-ex.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/stax2-api.jar!/" />
+        <root url="jar://$USER_HOME$/git/ProjetoAPI/lib/woodstox-core-asl.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="MotoPecas">
       <CLASSES />
       <JAVADOC />

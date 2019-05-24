@@ -1,0 +1,18 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.20" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.20" />
+          <option name="version" value="9.0.20.0" />
+        </TomcatInfo>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.41" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-8.5.41" />
+          <option name="version" value="8.5.41.0" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>

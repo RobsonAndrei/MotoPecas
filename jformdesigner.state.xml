@@ -12,11 +12,12 @@
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="properties.expanded.category.readonly" value="true" />
       <entry key="properties.expanded.events" value="true" />
+      <entry key="properties.expanded.constraints" value="false" />
       <node name="forms">
         <entry key="paletteexpanded514078650" value="components,containers,windows,menus" />
         <entry key="paletteexpanded-175013561" value="components,containers,windows" />
         <entry key="paletteexpanded605429595" value="components,containers,windows" />
-        <entry key="selection605429595" value="textArea2" />
+        <entry key="selection605429595" value="textField1" />
       </node>
     </node>
   </component>

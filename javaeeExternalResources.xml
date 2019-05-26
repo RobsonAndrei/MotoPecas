@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.netbeans.org/ns/ant-build-extender/1" />
+    <ignored-resource url="http://www.netbeans.org/ns/project/1" />
+    <ignored-resource url="http://www.netbeans.org/ns/web-project/3" />
+  </component>
+</application>

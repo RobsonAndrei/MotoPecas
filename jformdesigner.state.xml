@@ -9,14 +9,15 @@
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
-      <entry key="properties.expanded.category.expert" value="true" />
-      <entry key="properties.expanded.category.readonly" value="true" />
       <entry key="properties.expanded.events" value="true" />
+      <entry key="properties.expanded.bindings" value="true" />
+      <entry key="properties.expanded.constraints" value="false" />
       <node name="forms">
         <entry key="paletteexpanded514078650" value="components,containers,windows,menus" />
         <entry key="paletteexpanded-175013561" value="components,containers,windows" />
         <entry key="paletteexpanded605429595" value="components,containers,windows" />
-        <entry key="selection605429595" value="frameCliente" />
+        <entry key="selection605429595" value="textArea2" />
+        <entry key="selection-175013561" value="textAreaMensagensServidor" />
       </node>
     </node>
   </component>

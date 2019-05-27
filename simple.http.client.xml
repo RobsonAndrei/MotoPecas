@@ -1,5 +1,11 @@
 <application>
   <component name="SimpleHttpClient">
-    <list />
+    <list>
+      <data>
+        <method>GET</method>
+        <date>2019-05-27 20:28:34.586 UTC</date>
+        <url>http://localhost:8080/api/usuario</url>
+      </data>
+    </list>
   </component>
 </application>

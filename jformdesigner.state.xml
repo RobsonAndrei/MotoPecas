@@ -12,13 +12,15 @@
       <entry key="properties.expanded.events" value="true" />
       <entry key="properties.expanded.bindings" value="true" />
       <entry key="properties.expanded.constraints" value="false" />
+      <entry key="chooser.beanclass.history1" value="java.awt.Image" />
+      <entry key="chooser.beanclass.history2" value="javax.swing.ImageIcon" />
       <node name="forms">
-        <entry key="paletteexpanded514078650" value="components,containers,windows,menus" />
+        <entry key="paletteexpanded514078650" value="components,containers,windows,menus,jgoodies,id1,binding" />
         <entry key="paletteexpanded-175013561" value="components,containers,windows" />
         <entry key="paletteexpanded605429595" value="components,containers,windows" />
         <entry key="selection605429595" value="textArea2" />
         <entry key="selection-175013561" value="textAreaMensagensServidor" />
-        <entry key="selection514078650" value="frame1" />
+        <entry key="selection514078650" value="panel1" />
       </node>
     </node>
   </component>

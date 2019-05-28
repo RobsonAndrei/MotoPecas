@@ -9,20 +9,20 @@
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
-      <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history1" value="java.awt.Image" />
       <entry key="chooser.beanclass.history2" value="javax.swing.ImageIcon" />
       <entry key="iconeditor.filechooser.lastdirpath" value="$USER_HOME$/git/MotoPecas/src" />
       <entry key="iconeditor.filechooser.size" value="550, 400" />
       <entry key="properties.expanded.constraints" value="false" />
-      <entry key="properties.expanded.category.properties" value="false" />
+      <entry key="properties.expanded.events" value="true" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="paletteexpanded514078650" value="components,containers,windows,menus,jgoodies,id1,binding" />
         <entry key="paletteexpanded-175013561" value="components,containers,windows" />
         <entry key="paletteexpanded605429595" value="components,containers,windows" />
         <entry key="selection605429595" value="textArea2" />
         <entry key="selection-175013561" value="textAreaMensagensServidor" />
-        <entry key="selection514078650" value="textFieldCampoPesquisa" />
+        <entry key="selection514078650" value="frame1" />
       </node>
     </node>
   </component>

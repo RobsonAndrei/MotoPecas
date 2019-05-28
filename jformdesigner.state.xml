@@ -2,7 +2,7 @@
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <entry key="updates.lastcheckedversion" value="7.0.0.0.194" />
-    <entry key="updates.lastchecked" value="1558479305619" />
+    <entry key="updates.lastchecked" value="1559002409883" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="org.jdesktop.layout.GroupLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />

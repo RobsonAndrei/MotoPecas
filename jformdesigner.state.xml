@@ -20,9 +20,8 @@
         <entry key="paletteexpanded514078650" value="components,containers,windows,menus,jgoodies,id1,binding" />
         <entry key="paletteexpanded-175013561" value="components,containers,windows" />
         <entry key="paletteexpanded605429595" value="components,containers,windows" />
-        <entry key="selection605429595" value="textArea2" />
-        <entry key="selection-175013561" value="textAreaMensagensServidor" />
         <entry key="selection514078650" value="frame1" />
+        <entry key="selection-175013561" value="textAreaMensagensServidor" />
       </node>
     </node>
   </component>

@@ -8,5 +8,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.rest.api.requests.per.minute" value="300" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>

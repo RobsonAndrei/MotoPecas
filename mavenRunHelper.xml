@@ -40,6 +40,15 @@
             <Goal>
               <option name="commandLine" value="--update-snapshots" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="-DskipTests site:deploy" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="-DskipTests --update-snapshots site:deploy" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="-DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>

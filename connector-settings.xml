@@ -1,5 +1,6 @@
 <application>
   <component name="ConnectorSettings">
+    <option name="lastSelectedJarArtifactName" value="apirest-0.0.1-SNAPSHOT.jar" />
     <option name="lastSelectedRegionName" value="sa-east-1" />
   </component>
 </application>

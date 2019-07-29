@@ -12,7 +12,7 @@ import javax.swing.border.*;
 
 
 /**
- * @author unknown
+ * @author Robson Andrei By IntelliJ IDE
  */
 public class Janela extends JFrame {
     public Janela() {

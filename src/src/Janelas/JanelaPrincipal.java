@@ -87,10 +87,10 @@ public class JanelaPrincipal {
 		btnCadastrarPeca.setBounds(423, 344, 233, 60);
 		frmMotoPeas.getContentPane().add(btnCadastrarPeca);
 		
-		JButton btnOrcamento = new JButton("Orçamento");
+		JButton btnOrcamento = new JButton("Orçamento & Venda\n");
 		btnOrcamento.setHorizontalAlignment(SwingConstants.LEADING);
 		btnOrcamento.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
-		btnOrcamento.setFont(new Font("Lucida Grande", Font.PLAIN, 18));
+		btnOrcamento.setFont(new Font("Lucida Grande", Font.PLAIN, 16));
 		btnOrcamento.setForeground(new Color(0, 0, 0));
 		btnOrcamento.setBackground(new Color(0, 128, 128));
 		btnOrcamento.setBounds(154, 416, 257, 60);
@@ -125,6 +125,58 @@ public class JanelaPrincipal {
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel.setBounds(291, 675, 495, 29);
 		frmMotoPeas.getContentPane().add(lblNewLabel);
+		
+		JButton btnCadastrarCliente = new JButton("Cadastrar Cliente\n");
+		btnCadastrarCliente.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
+		btnCadastrarCliente.setForeground(Color.ORANGE);
+		btnCadastrarCliente.setFont(new Font("Lucida Grande", Font.PLAIN, 18));
+		btnCadastrarCliente.setBackground(new Color(0, 128, 128));
+		btnCadastrarCliente.setBounds(154, 488, 257, 60);
+		frmMotoPeas.getContentPane().add(btnCadastrarCliente);
+		
+		JButton btnBuscarOramento = new JButton("Buscar Orçamento\n\n");
+		btnBuscarOramento.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnBuscarOramento.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
+		btnBuscarOramento.setForeground(Color.ORANGE);
+		btnBuscarOramento.setFont(new Font("Lucida Grande", Font.PLAIN, 14));
+		btnBuscarOramento.setBackground(new Color(0, 128, 128));
+		btnBuscarOramento.setBounds(423, 488, 233, 60);
+		frmMotoPeas.getContentPane().add(btnBuscarOramento);
+		
+		JButton btnEstoque = new JButton("Estoque");
+		btnEstoque.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
+		btnEstoque.setForeground(new Color(0, 0, 255));
+		btnEstoque.setFont(new Font("Lucida Grande", Font.PLAIN, 18));
+		btnEstoque.setBackground(Color.BLACK);
+		btnEstoque.setBounds(668, 488, 245, 60);
+		frmMotoPeas.getContentPane().add(btnEstoque);
+		
+		JButton btnCadastroPatrimonio = new JButton("Cadastro Patrimonio");
+		btnCadastroPatrimonio.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
+		btnCadastroPatrimonio.setForeground(new Color(0, 128, 0));
+		btnCadastroPatrimonio.setFont(new Font("Lucida Grande", Font.PLAIN, 15));
+		btnCadastroPatrimonio.setBackground(new Color(0, 128, 128));
+		btnCadastroPatrimonio.setBounds(154, 560, 257, 60);
+		frmMotoPeas.getContentPane().add(btnCadastroPatrimonio);
+		
+		JButton btnDespesaDiria = new JButton("Despesa Diária");
+		btnDespesaDiria.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
+		btnDespesaDiria.setForeground(new Color(255, 0, 0));
+		btnDespesaDiria.setFont(new Font("Lucida Grande", Font.PLAIN, 14));
+		btnDespesaDiria.setBackground(new Color(0, 128, 128));
+		btnDespesaDiria.setBounds(423, 560, 233, 60);
+		frmMotoPeas.getContentPane().add(btnDespesaDiria);
+		
+		JButton btnServios = new JButton("Serviços");
+		btnServios.setIcon(new ImageIcon("/Users/robsonandrei/git/MotoPecas/src/src/Janelas/LeitllRatoe.png"));
+		btnServios.setForeground(Color.BLUE);
+		btnServios.setFont(new Font("Lucida Grande", Font.PLAIN, 18));
+		btnServios.setBackground(Color.BLACK);
+		btnServios.setBounds(668, 560, 245, 60);
+		frmMotoPeas.getContentPane().add(btnServios);
 		
 		
 		

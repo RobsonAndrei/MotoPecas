@@ -69,7 +69,8 @@ public class JanelaPrincipal {
 		btnCadNewUser.setBackground(new Color(0, 128, 128));
 		btnCadNewUser.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				
+				JanelaCadUsuario ja = new JanelaCadUsuario();
+				ja.setVisible(true);
 			}
 		});
 		btnCadNewUser.setBounds(154, 344, 257, 60);
@@ -80,6 +81,8 @@ public class JanelaPrincipal {
 		btnCadastrarPeca.setFont(new Font("Lucida Grande", Font.PLAIN, 18));
 		btnCadastrarPeca.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				JanelaCadPecas ja = new JanelaCadPecas();
+				ja.setVisible(true);
 			}
 		});
 		btnCadastrarPeca.setForeground(new Color(0, 128, 0));

@@ -77,38 +77,30 @@ public class Fornecedor {
 	public void setListapecas(ArrayList<Peca> listapecas) {
 		this.listapecas = listapecas;
 	}
-	
+
 	public boolean inserirPecaForne(Peca p) {
 		boolean resposta = false;
-		
+
 		for (Peca peca : listapecas) {
-			if(!peca.getCodigo().equals(p.getCodigo())) {
+			if (!peca.getCodigo().equals(p.getCodigo())) {
 				listapecas.add(p);
 				resposta = true;
 				return resposta;
-				
-			}else {
+
+			} else {
 				System.out.println("O fornecedor já trabalha com este material..");
 				resposta = false;
 				return resposta;
 			}
 		}
-		
+
 		return resposta;
 	}
-	
+
 	public static void main(String[] args) throws Exception {
-		Peca p1 = new Peca("AAA948-099", "Cabo de embreagem",
-				"Cabo", 100.00, 120.78);
-		
+		Peca p1 = new Peca("CAbo de Embreagem", "Cabo de embreagem Titan 150", "QIUI80980980", 120.78, 300.00);
+
 		Fornecedor f = new Fornecedor("Roberto peças", "0001/992092", "Gravataí", "3455 4565");
 		f.inserirPecaForne(p1);
 	}
-	
-	
-	
-	
-	
-	
-
 }
